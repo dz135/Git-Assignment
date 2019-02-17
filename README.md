@@ -8,6 +8,7 @@ This article explores the myth that surrounds the field of Software QA (Quality 
 experience on. She tells us that being a tester is not as easy as one may think. Testing may seem easy because all you need to accomplish is find errors on code that is already written. She explains how 
 it is a lot more to it and it involves many different complex steps that is not as obvious as it presents itself to be. 
 >High analytical skills are required when you test a software for many possible use cases with minimum test cases.
+
 Anyone with minimum knowledge can take on this role, but not everyone can do it effectively and efficiently. It takes a lot of practice and time to master the skill. Some think that the testing should 
 just be left to the developers and there is no need to hire people just for that. Riry argues that developers often have a lot of others things to do so they will not be as committed to testing as 
 people who are solely for that will be. This will create a bad, or not as good as it can be, software.
