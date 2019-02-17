@@ -13,6 +13,6 @@ Anyone with minimum knowledge can take on this role, but not everyone can do it 
 just be left to the developers and there is no need to hire people just for that. Riry argues that developers often have a lot of others things to do so they will not be as committed to testing as 
 people who are solely for that will be. This will create a bad, or not as good as it can be, software.
 
-I find this article interesting because I was curious on how software testing is and it what people say about it true. Reading through this article from the perspecive of someone in that field has 
+I find this article interesting because I was curious on how software testing is and it what people say about it true. Reading through this article from the perspective of someone in that field has 
 enlighten me on the topic and made me respect it more. She took a chance on this new position because she had certain traits she thought was useful for it and I also think I share similar 
 characteristics. So this may be something I will look into in the future.
