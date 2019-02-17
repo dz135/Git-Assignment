@@ -1,6 +1,6 @@
 # Git-Assignment
 
-[Article](https://medium.com/cermati-tech/five-myths-of-testing-by-a-software-qa-27edb179fad)
+### [Five Myths of Testing by a Software QA](https://medium.com/cermati-tech/five-myths-of-testing-by-a-software-qa-27edb179fad)
 
 ## Thoughts:
 
